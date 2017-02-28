@@ -1,0 +1,109 @@
+	
+#textfield{
+	border: 2px black solid;
+	padding-left:180px;
+	
+
+	}
+#search{
+	-moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+	border:2px black solid;
+	margin-left:20px;
+	width:80px;
+	
+	}
+		
+*{
+	list-style-type:none;
+	text-decoration:none;
+	color:black;
+	}
+	
+#menu-bar{
+	margin-left:40px;
+	width:900px;
+	height:25px;
+	margin-top:30px;
+	padding-top:8px;
+	background-color:white;
+	border:black solid 2px;
+	text-align:left;
+	
+	
+	
+	
+	
+}
+
+a.menu_bar_item {
+	color:black;
+	padding-left:40px;
+	padding-right:40px;
+	padding-top:8px;
+	padding-bottom:8px;
+	
+	
+	
+	
+}
+
+a.menu_bar_item:hover {
+	background-color:#D6D6D6;
+	border-right:black solid 2px;
+	border-left:black solid 2px;
+	}	
+		
+	
+
+a.menu_bar_item.active	{
+	background-color:#D6D6D6;
+	border-right:black solid 2px;
+	border-left:black solid 2px;
+	}	
+	
+#PageContent {
+	padding-top:60px;
+}		
+
+
+#movie_of_the_week{
+	font-size:20px;
+	float:left;
+	margin-left:320px;
+	margin-top:20px;
+	}
+#synopsis h1{
+
+padding-right:590px;
+padding-top:10px;
+
+}
+
+#synopsis  p{
+text-align:left;
+width:500px;
+padding-left:300px;
+padding-top:30px;
+
+}	
+	
+
+#images {
+	
+padding-top:120px;
+padding-left:100px;
+margin-right:300px;
+	}
+	
+#images div {
+	
+padding-top:100px;
+	}
+	
+
+#Popular_movies {
+
+float:right;
+	}	
